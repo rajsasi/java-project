@@ -3,7 +3,7 @@ public class Rectangle {
 	public int width;
 
 	public Rectangle(int length, int width) {
-		this.length = lenght;
+		this.length = length;
 		this.width = width;
 
 	}
