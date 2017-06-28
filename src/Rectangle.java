@@ -1,5 +1,5 @@
 public class Rectangle {
-	public int lenght;
+	public int length;
 	public int width;
 
 	public Rectangle(int length, int width) {
@@ -13,6 +13,6 @@ public class Rectangle {
 	}
 
 	public int getPerimeter(){
-		return 2 * (lenth + width);
+		return 2 * (length + width);
 	}
 }
